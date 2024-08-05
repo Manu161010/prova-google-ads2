@@ -50,10 +50,7 @@
             height: auto;
         }
     </style>
-
-
-
-    <!-- Google tag (gtag.js) -->
+ <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16641954077">
 </script>
 <script>
@@ -63,6 +60,7 @@
 
   gtag('config', 'AW-16641954077');
 </script>
+
 </head>
 <body>
     <div class="navbar">
