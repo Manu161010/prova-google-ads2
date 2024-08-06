@@ -50,17 +50,15 @@
             height: auto;
         }
     </style>
- <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16641954077">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16641954077"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-  gtag('config', 'AW-16641954077');
-</script>
-
+      gtag('config', 'AW-16641954077');
+    </script>
 </head>
 <body>
     <div class="navbar">
@@ -72,12 +70,18 @@
     <div class="container">
         <h1>Benvenuto al Sito di Prova</h1>
         <p>Questo è un sito di prova creato per testare le campagne Google Ads.</p>
+
+        <h2>Scarpe da Donna</h2>
+        <p>Esplora la nostra collezione di scarpe da donna. Abbiamo una vasta gamma di opzioni, tra cui scarpe da donna alte, scarpe da donna aperte, scarpe da donna ballerine, e scarpe da donna col tacco. Le nostre scarpe da donna sono anche disponibili in versioni comode e di marca, ideali per ogni occasione. Se stai cercando qualcosa di speciale, scopri le nostre scarpe da donna eleganti, perfette per eventi formali, e le scarpe da donna estive, inclusi modelli estivi eleganti per le giornate più calde.</p>
         
         <div class="image-section">
             <img src="https://via.placeholder.com/300" alt="Placeholder Image 1">
             <img src="https://via.placeholder.com/300" alt="Placeholder Image 2">
             <img src="https://via.placeholder.com/300" alt="Placeholder Image 3">
         </div>
+
+        <h2>Abiti e Vestiti da Donna</h2>
+        <p>La nostra collezione di abiti e vestiti da donna è pensata per soddisfare ogni tua esigenza. Trova abiti da cerimonia donna, abiti da sera, e abiti da sera donna per eventi speciali. Per un look sofisticato, prova un abito lungo cerimonia. Se stai cercando qualcosa di più casual, esplora la nostra gamma di vestiti donna, vestiti eleganti donna, e vestiti lunghi estivi. Abbiamo anche una selezione di vestiti per cerimonie donna, perfetti per ogni occasione speciale.</p>
     </div>
 
     <div class="footer">
